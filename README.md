@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobin-s" alt="jobin-s" /> </p>
 
-- 🌱 I’m currently learning **JavaScripts and its framworks**
+- 🌱 I’m currently learning **JavaScripts and its framwork**
 
 - 👯 I’m looking to collaborate on **variety project**
 
