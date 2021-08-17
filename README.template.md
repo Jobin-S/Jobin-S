@@ -9,6 +9,8 @@ Hi there 👋
 
 I am Jobin, a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. Currently I am doing my 12th grade.
 
-# 📩 Latest Blog Posts 
+# 📩 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
