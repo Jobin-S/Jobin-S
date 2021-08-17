@@ -3,7 +3,8 @@ on:
   schedule: # Run workflow automatically
     # This will make it run every hour
     - cron: "0 * * * *"
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+  workflow_dispatch:
 jobs:
   get-office-quotes:
     runs-on: ubuntu-latest
@@ -31,3 +32,13 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+  update-readme-with-blog:
+   name: Update this repo's README with latest blog posts
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v2
+     - uses: gautamkrishnar/blog-post-workflow@master
+       with:
+         feed_list: "https://jobin.hashnode.dev/rss.xml"
+
