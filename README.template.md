@@ -50,9 +50,9 @@ I am Jobin, a MERN stack developer,creative and a developer who loves to create 
 
 ## 📣 How about an Office quote before you go?
 
-<p>{office_quote}</p>
+> <p>{office_quote}</p>
 
-<p>{office_character}</p>
+> <p>{office_character}</p>
 
 Check back at the top of the hour for a new quote!
 
