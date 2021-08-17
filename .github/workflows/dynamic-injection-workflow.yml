@@ -18,7 +18,7 @@ jobs:
 
       - run: yarn
       
-      - run:yarn add isomorphic-unfetch
+      - run: yarn add isomorphic-unfetch
 
       - run: node .
 
