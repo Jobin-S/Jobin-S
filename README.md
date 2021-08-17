@@ -12,8 +12,7 @@ I am Jobin, a MERN stack developer,creative and a developer who loves to create 
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy your Node js app into production with Nginx and SSL installation(Step by Step tutorial)](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
-- [Top 5 VS Code Extension for Web Developers In 2021](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
@@ -51,9 +50,9 @@ I am Jobin, a MERN stack developer,creative and a developer who loves to create 
 
 ## 📣 How about an Office quote before you go?
 
-> <p>I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time.</p>
+> <p>Chad Flenderman. Just an easy-going black guy who knows the streets--yet he also went to Oxford. So. Just as comfortable on a motorcycle as he is on Air Force One. Oh and he's also the world's leading Egyptologist.</p>
 
-> <p>- Jim Halpert</p>
+> <p>- Toby Flenderson</p>
 
 Check back at the top of the hour for a new quote!
 
