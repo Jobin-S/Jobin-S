@@ -12,8 +12,7 @@ I am Jobin, a MERN stack developer,creative and a developer who loves to create 
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy your Node js app into production with Nginx and SSL installation(Step by Step tutorial)](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
-- [Top 5 VS Code Extension for Web Developers In 2021](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
@@ -51,7 +50,7 @@ I am Jobin, a MERN stack developer,creative and a developer who loves to create 
 
 ## 📣 How about an Office quote before you go?
 
-> <p>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</p>
+> <p>Occasionally, I’ll hit somebody with my car. So sue me.</p>
 
 > <p>- Michael Scott</p>
 
