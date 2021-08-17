@@ -17,6 +17,8 @@ jobs:
           node-version: 14.6.0
 
       - run: yarn
+      
+      - run:yarn add isomorphic-unfetch
 
       - run: node .
 
