@@ -12,8 +12,7 @@ I am Jobin, a MERN stack developer,creative and a developer who loves to create 
 ## 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy your Node js app into production with Nginx and SSL installation(Step by Step tutorial)](https://jobin.hashnode.dev/deploy-your-node-js-app-into-production-with-nginx-and-ssl-installationstep-by-step-tutorial)
-- [Top 5 VS Code Extension for Web Developers In 2021](https://jobin.hashnode.dev/top-5-vs-code-extension-for-web-developers-in-2021)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
@@ -47,18 +46,13 @@ I am Jobin, a MERN stack developer,creative and a developer who loves to create 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 
 ## 📣 How about an Office quote before you go?
 
-> <p>I have been Michael's #2 guy for about 5 years. And we make a great team. We're like one of those classic famous teams. He's like Mozart, and I'm like Mozart's friend. No. I'm like Butch Cassidy, and Michael is like Mozart. You try and hurt Mozart; you're going to get a bullet in your head courtesy of Butch Cassidy.</p>
+> <p>Sometimes I’ll start a sentence, and I don’t even know where it’s going. I just hope I find it along the way.</p>
 
-> <p>- Dwight Schrute</p>
+> <p>- Michael Scott</p>
 
 Check back at the top of the hour for a new quote!
 
