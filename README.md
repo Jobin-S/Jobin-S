@@ -48,6 +48,9 @@ I am Jobin, a MERN stack developer,creative and a developer who loves to create 
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDb&logoColor=white&color=green)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
