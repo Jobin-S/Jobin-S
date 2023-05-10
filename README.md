@@ -7,7 +7,7 @@
 
 Hi there 👋
 
-I am Jobin, a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. Currently I am Freelancing and doing my 12th grade.
+I am Jobin, a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. Currently I am Working as MERN Stack developer at Quantorix Technologies Pvt Ltd.
 
 ## 📩 Latest Blog Posts
 
